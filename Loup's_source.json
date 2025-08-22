@@ -1,7 +1,7 @@
 {
   "name": "Loup's_source",
   "subtitle": "Here are some tweaked youtube ipas",
-  "description": "",
+  "description": "hey",
   "iconURL": "https://i.pinimg.com/736x/39/c1/81/39c181e549d0a1692a74d1a9fb88eb72.jpg",
   "website": "",
   "patreonURL": "",
@@ -9,6 +9,7 @@
   "featuredApps": [
     "com.google.ios.youtube"
   ],
+  "headerURL": "https://m.gjcdn.net/community-header/1200/119468-crop0_183_1242_494-pkkji2u9-v4.webp",
   "apps": [
     {
       "name": "Youtube",
@@ -58,9 +59,7 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
           "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
@@ -76,5 +75,17 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "news_u6mzr6gzm0",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2025-08-22T21:58",
+      "tintColor": "#eee9df",
+      "imageURL": "",
+      "notify": false,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.google.ios.youtube"
+    }
+  ]
 }
