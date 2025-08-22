@@ -6,75 +6,51 @@
   "website": "",
   "patreonURL": "",
   "tintColor": "#eee9df",
-  "featuredApps": [
-    "com.google.ios.youtube"
-  ],
+  "featuredApps": ["com.google.ios.youtube"],
   "headerURL": "https://m.gjcdn.net/community-header/1200/119468-crop0_183_1242_494-pkkji2u9-v4.webp",
   "apps": [
     {
       "name": "Youtube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
       "developerName": "Google (+ uYouEnhanced tweak)",
       "subtitle": "its yt why do i gotta explain",
       "localizedDescription": "its yt why do i gotta explain",
       "iconURL": "https://i.imgur.com/2uImC8t.png",
       "tintColor": "#ff2c00",
-      "category": "photo-video",
-      "screenshots": {
-        "iphone": [
-          "https://i.imgur.com/dovVol5.png"
-        ],
-        "ipad": [
-          "https://i.imgur.com/RJgeEfz.png"
-        ]
-      },
+      "category": "entertainment",
+      "screenshots": [
+        "https://i.imgur.com/dovVol5.png",
+        "https://i.imgur.com/RJgeEfz.png"
+      ],
       "versions": [
         {
-          "version": "20.05.4",
-          "date": "2025-08-22T15:28:00+02:00",
-          "localizedDescription": "d",
-          "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/V20.05.4/uYouEnhanced_20.05.4-3.0.4.ipa",
-          "size": 118000000,
-          "buildVersion": "123",
-          "minOSVersion": "14.0"
-        },
-        {
           "version": "20.23.3",
+          "buildVersion": "123",
           "date": "2025-08-22T15:23:00+02:00",
           "localizedDescription": "d",
           "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/V20.23.3/uYouEnhanced_20.23.3-3.0.4.ipa",
           "size": 124000000,
-          "buildVersion": "123",
           "minOSVersion": "14.0"
         },
         {
           "version": "20.14.2",
+          "buildVersion": "123",
           "date": "2025-08-22T15:22:00+02:00",
           "localizedDescription": "d",
           "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/untagged-89a4467492a1cb7cae6c/uYouEnhanced_20.14.2-3.0.4.ipa",
           "size": 120000000,
+          "minOSVersion": "14.0"
+        },
+        {
+          "version": "20.05.4",
           "buildVersion": "123",
+          "date": "2025-08-22T15:28:00+02:00",
+          "localizedDescription": "d",
+          "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/V20.05.4/uYouEnhanced_20.05.4-3.0.4.ipa",
+          "size": 118000000,
           "minOSVersion": "14.0"
         }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-          "NSCameraUsageDescription": "This lets you create videos using the app.",
-          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
-          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
-        }
-      },
-      "patreon": {}
+      ]
     }
   ],
   "news": []
