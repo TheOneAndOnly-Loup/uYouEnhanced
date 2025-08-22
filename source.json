@@ -9,7 +9,9 @@
       "name": "Youtube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google (+ uYouEnhanced tweak)",
+      "localizedDescription": "its yt why do i gotta explain",
       "iconURL": "https://i.imgur.com/2uImC8t.png",
+      "tintColor": "#ff2c00",
       "versions": [
         {
           "version": "20.23.3",
