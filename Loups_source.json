@@ -1,7 +1,7 @@
 {
-  "name": "Loup's_source",
+  "name": "Loups_source",
   "subtitle": "Here are some tweaked youtube ipas",
-  "description": "hey",
+  "description": "",
   "iconURL": "https://i.pinimg.com/736x/39/c1/81/39c181e549d0a1692a74d1a9fb88eb72.jpg",
   "website": "",
   "patreonURL": "",
@@ -32,34 +32,36 @@
       "versions": [
         {
           "version": "20.05.4",
-          "date": "2025-08-22T19:28:00+02:00",
-          "localizedDescription": null,
+          "date": "2025-08-22T15:28:00+02:00",
+          "localizedDescription": "d",
           "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/V20.05.4/uYouEnhanced_20.05.4-3.0.4.ipa",
           "size": 118000000,
-          "buildVersion": "",
-          "minOSVersion": null
+          "buildVersion": "123",
+          "minOSVersion": "14.0"
         },
         {
           "version": "20.23.3",
-          "date": "2025-08-22T19:23:00+02:00",
-          "localizedDescription": null,
+          "date": "2025-08-22T15:23:00+02:00",
+          "localizedDescription": "d",
           "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/V20.23.3/uYouEnhanced_20.23.3-3.0.4.ipa",
           "size": 124000000,
-          "buildVersion": "",
-          "minOSVersion": null
+          "buildVersion": "123",
+          "minOSVersion": "14.0"
         },
         {
           "version": "20.14.2",
-          "date": "2025-08-22T19:22:00+02:00",
-          "localizedDescription": null,
+          "date": "2025-08-22T15:22:00+02:00",
+          "localizedDescription": "d",
           "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/untagged-89a4467492a1cb7cae6c/uYouEnhanced_20.14.2-3.0.4.ipa",
           "size": 120000000,
-          "buildVersion": "",
-          "minOSVersion": null
+          "buildVersion": "123",
+          "minOSVersion": "14.0"
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
           "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
@@ -75,17 +77,5 @@
       "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "New Feature Announcement",
-      "identifier": "news_u6mzr6gzm0",
-      "caption": "Introducing a new feature in AltStore!",
-      "date": "2025-08-22T21:58",
-      "tintColor": "#eee9df",
-      "imageURL": "",
-      "notify": false,
-      "url": "https://example.com/new_feature_details",
-      "appID": "com.google.ios.youtube"
-    }
-  ]
+  "news": []
 }
