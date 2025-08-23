@@ -13,6 +13,10 @@
       "iconURL": "https://i.imgur.com/2uImC8t.png",
       "tintColor": "#ff2c00",
       "versions": [
+         {
+          "version": "20.33.2",
+          "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/v20.33.2-3.0.4-(8)/uYouEnhanced_20.33.2-3.0.4.ipa"
+        },
         {
           "version": "20.23.3",
           "downloadURL": "https://github.com/TheOneAndOnly-Loup/uYouEnhanced/releases/download/V20.23.3/uYouEnhanced_20.23.3-3.0.4.ipa"
